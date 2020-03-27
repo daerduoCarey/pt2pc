@@ -1,6 +1,6 @@
 # PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
 
-![Overview](https://github.com/daerduoCarey/structedit/blob/master/images/teaser.png)
+![Overview](https://github.com/daerduoCarey/pt2pc/blob/master/images/teaser.png)
 
 **Figure 1.** We formulate the problem of Part-Tree-to-Point-Cloud (PT2PC) as a conditional generation task which takes in a symbolic part tree as condition and generates multiple point clouds with shape variations satisfy the structure defined by the part tree.
 
