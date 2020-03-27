@@ -53,25 +53,25 @@ This repository provides data and code as follows.
             Chair.txt           # stores PartNet semantic part hierarchy
         semantics_colors/
             Chair.txt           # stores the palette used for visualization
+
     log/                        # store training logs
 
     metrics/                    # store metric-code for the FPD score
         fid.py                  # the main script that computes FPD scores
         gt_stats/               # stores the ground-truth statistics for mean and covariance
-        compute_gt_stats.py     # to compute gt_stats
         pointnet_modelnet40/    # code to train PointNet on ModelNet40
 
     train.py                    # the main training script
-    trainer.py                  # WGAN-gp trainer
+    trainer.py                  # the WGAN-gp trainer
     model_gen.py                # model definition for the generator
     model_dis.py                # model definition for the discriminator
     data.py                     # the data loader
     utils.py                    # contain utility functions
 ```
 
-This code has been tested on Ubuntu 16.04 with Cuda 9.0, GCC 5.4.0, Python 3.6.5, PyTorch 1.1.0, Jupyter IPython Notebook 5.7.8. 
+This code has been tested on Ubuntu 16.04 with Cuda 9.0, GCC 5.4.0, Python 3.6.5 and PyTorch 1.1.0. 
 
-Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScEnRD_b4elKVUHAgWomfmadw6-30caNJ5xJ4ahsu-tkTdXBg/viewform?usp=sf_link) to download necessary data.
+Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScEnRD_b4elKVUHAgWomfmadw6-30caNJ5xJ4ahsu-tkTdXBg/viewform?usp=sf_link) to download the necessary data.
 
 ```
     data.zip            # put under the root folder and unzip

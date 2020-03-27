@@ -1,7 +1,7 @@
 Fill in the form, download `pn_ckpt.zip` and unzip here.
 
 
-# If you want to train the PointNet on ModelNet40
+# If you want to re-train the PointNet on ModelNet40
 
 
 ## ModelNet40
