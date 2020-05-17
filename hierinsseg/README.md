@@ -19,7 +19,7 @@ This code has been tested on Ubuntu 16.04 with Python 3.5 and TensorFlow 1.12.
 
 ## To run the code
 
-Download the pre-trained models and meta-files [HERE](http://download.cs.stanford.edu/orion/kaichun/hierinsseg_resources.zip)
+Download the pre-trained models and meta-files [HERE](http://download.cs.stanford.edu/orion/kaichun/hierinsseg_resources.zip) and unzip it here to get a folder `resources`.
 
 Prepare your point-cloud (normalized in a unit sphere, consistently oriented as the PartNet data) and put them into the folder `data`, and then run
 
