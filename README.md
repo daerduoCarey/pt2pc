@@ -105,6 +105,10 @@ Simply run
 
         python ./train.py --category Chair
 
+## HierInsSeg Scores
+
+Check the README in `hierinsseg`. This is our proposed structure reconstruction metric.
+
 ## Questions
 
 Please post issues for questions and more helps on this Github repo page. We encourage using Github issues instead of sending us emails since your questions may benefit others.
@@ -115,14 +119,14 @@ MIT License
 
 ## Updates
 
-* [March 27, 2019] Preliminary Data and Code released.
+* [March 27, 2020] Preliminary Data and Code released.
+* [May 17, 2020] Release the proposed HierInsSeg score for evaluating shape structure reconstruction.
 
 ## TODOs
 
 * Release evaluation code.
 * Release pretrained models.
 * Release baseline code.
-* Release the code for the proposed HierInsSeg metric.
 
 Please request in Github Issue for more code to release.
 
