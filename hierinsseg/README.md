@@ -6,6 +6,7 @@ This score can measure how well the point cloud shape generation preserves parts
 For more details, please check PartNet and PT2PC papers.
 
 Since we are using a neural network to predict the hier-ins-seg from a point cloud shape, the predicted tree itself can have error.
+This is similar to the FID metric commonly used in GAN evaluation.
 But, in our experience, it should be good enough to conduct relative comparisons among algorithms.
 We welcome any idea/comments on improving this.
 
