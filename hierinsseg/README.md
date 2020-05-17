@@ -26,6 +26,8 @@ Prepare your point-cloud (normalized in a unit sphere, consistently oriented as 
         python test_hier_ins_seg.py sample_data Chair
         python compute_metric_hier_ins_seg.py sample_data Chair
 
+You should get an average score of `0.164779` for the 10 sample chair data.
+
 If you are testing the other categories, you might need to change `batch_size=8` in line 13 of `test_hier_ins_seg.py` to resolve a possible error complaining that the batchsize does not match the pretrained model.
 
 To debug, you can run the following to print the two trees and the computed tree-editing distance.
