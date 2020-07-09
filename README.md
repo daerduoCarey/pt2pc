@@ -1,4 +1,4 @@
-# PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
+# PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions (ECCV 2020)
 
 ![Overview](https://github.com/daerduoCarey/pt2pc/blob/master/images/teaser.png)
 
