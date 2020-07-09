@@ -27,7 +27,7 @@ Project Page: https://cs.stanford.edu/~kaichun/pt2pc/
     @article{mo2020pt2pc,
         title={{PT2PC}: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions},
         author={Mo, Kaichun and Wang, He and Yan, Xinchen and Guibas, Leonidas},
-        journal={arXiv preprint arXiv:2003.08624},
+        journal={European conference on computer vision (ECCV 2020)},
         year={2020}
     }
 
