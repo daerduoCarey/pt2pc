@@ -99,6 +99,12 @@ Please also install
         cd ..
         cp sampling/build/lib.linux-x86_64-3.6/sampling_cuda.cpython-36m-x86_64-linux-gnu.so .
 
+## Quick Start
+
+Download [pretrained models](http://download.cs.stanford.edu/orion/pt2pc/pretrained_ckpts.zip) and unzip under the root directory.
+
+Then, you can visualize the generation results using Jupyter Notebook `quick_test.ipynb`.
+
 ## To train the model
 
 Simply run
@@ -119,14 +125,13 @@ MIT License
 
 ## Updates
 
-* [March 27, 2020] Preliminary Data and Code released.
+* [Aug 17, 2020] Release pre-trained models and add a simple Jupyter Notebook for visualizing the results.
 * [May 17, 2020] Release the proposed HierInsSeg score for evaluating shape structure reconstruction.
+* [March 27, 2020] Preliminary Data and Code released.
 
 ## TODOs
 
 * Release evaluation code.
-* Release pretrained models.
-* Release baseline code.
 
 Please request in Github Issue for more code to release.
 
