@@ -1,4 +1,6 @@
 data
+pretrained_ckpts
 data.zip
+pretrained_ckpts.zip
 __pycache__
 *.so

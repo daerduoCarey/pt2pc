@@ -1,0 +1,29 @@
+{"id": 0, "label": "chair", "children": [
+	 {"id": 1, "label": "chair_back", "children": [
+		 {"id": 2, "label": "back_surface", "children": [
+			 {"id": 3, "label": "back_single_surface", "group_id": 0, "group_ins_id": 0},
+			 {"id": 4, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 0},
+			 {"id": 5, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 1},
+			 {"id": 6, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 2},
+			 {"id": 16, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 3},
+			 {"id": 17, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 4},
+			 {"id": 18, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 5},
+			 {"id": 19, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 6},
+			 {"id": 20, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 7},
+			 {"id": 21, "label": "back_surface_vertical_bar", "group_id": 1, "group_ins_id": 8}
+		], "group_id": 0, "group_ins_id": 0}
+	], "group_id": 0, "group_ins_id": 0},
+	 {"id": 7, "label": "chair_seat", "children": [
+		 {"id": 8, "label": "seat_surface", "children": [
+			 {"id": 9, "label": "seat_single_surface", "group_id": 0, "group_ins_id": 0}
+		], "group_id": 0, "group_ins_id": 0}
+	], "group_id": 1, "group_ins_id": 0},
+	 {"id": 10, "label": "chair_base", "children": [
+		 {"id": 11, "label": "regular_leg_base", "children": [
+			 {"id": 12, "label": "leg", "group_id": 0, "group_ins_id": 0},
+			 {"id": 13, "label": "leg", "group_id": 0, "group_ins_id": 1},
+			 {"id": 14, "label": "leg", "group_id": 0, "group_ins_id": 2},
+			 {"id": 15, "label": "leg", "group_id": 0, "group_ins_id": 3}
+		], "group_id": 0, "group_ins_id": 0}
+	], "group_id": 2, "group_ins_id": 0}
+], "group_id": 0, "group_ins_id": 0}
