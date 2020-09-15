@@ -8,7 +8,6 @@ from mpl_toolkits.mplot3d import Axes3D
 from scipy.optimize import linear_sum_assignment
 import trimesh
 from colors import colors
-from torch_cluster import fps
 from sklearn.metrics.pairwise import pairwise_distances
 
 

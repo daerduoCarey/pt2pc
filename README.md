@@ -88,10 +88,6 @@ Please run
 
 to install the dependencies.
 
-Then, install https://github.com/rusty1s/pytorch_scatter by running
-
-        pip3 install torch-scatter
-
 Please also install
 
         cd sampling
